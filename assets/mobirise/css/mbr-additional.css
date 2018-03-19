@@ -115,6 +115,30 @@
 #msg-box4-p .lead {
   color: #ffffff;
 }
+
+#dropdown-menu-2btn-1e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1e .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-2btn-1e .nav .link,
+#dropdown-menu-2btn-1e .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-1e .navbar,
+#dropdown-menu-2btn-1e .dropdown-menu {
+  background: #293550;
+}
+#dropdown-menu-2btn-1e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1e .dropdown-menu a:hover,
+#dropdown-menu-2btn-1e .dropdown-menu a:focus {
+  background: #222c43;
+}
+#dropdown-menu-2btn-1e .navbar-toggler {
+  color: #ffffff;
+}
 #header3-17 SMALL {
   font-size: 18px;
 }
