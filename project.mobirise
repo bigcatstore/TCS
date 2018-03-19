@@ -1263,7 +1263,7 @@
           "title": "Contact Form",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
           "form": {
-            "action": "chris@tyrrellcollection.co.uk",
+            "action": "chris@bigcatmedia.co.uk",
             "alerts": {
               "success": "Thanks for your message, we will come back to you."
             },
