@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-23_1035",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -180,7 +180,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shilloutte-2000x1126.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1shilloutte-2000x1126.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
