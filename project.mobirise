@@ -180,7 +180,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1shilloutte-2000x1126.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2sl-2000x1126.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
